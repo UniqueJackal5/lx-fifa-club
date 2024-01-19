@@ -48,7 +48,21 @@ function App() {
           </div>
           
         </div>
+        <div>
         <h4 className="marginMid">Our Sponsors</h4>
+        </div>
+        <div>
+          <div className="orientFlex">
+            <div>
+              <ol>
+                <li>Charicha Institute</li>
+                <li>Charicha Gaming</li>
+                <li>Mount Everest English Boarding School</li>
+                <li>Belbari Municipality</li>
+              </ol>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
